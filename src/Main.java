@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("задача 1");
         int[] month = {13_000, 10_012, 9_987, 11_540, 8_724};
-        int allMoney = 0;
+        int allMoney = 00;
         for (int element : month) {
             allMoney += element;
         }
